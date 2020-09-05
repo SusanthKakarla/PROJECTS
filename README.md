@@ -6,6 +6,6 @@
 •	[Dice Roller website](https://susanthkakarla.github.io/Dice/) (HTML, CSS, JS)						
   
   
- •[Github main profile](https://github.com/SusanthKakarla)
+ • [Github main profile](https://github.com/SusanthKakarla)
 
 
