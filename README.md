@@ -1,11 +1,11 @@
 # PROJECTS
 
-•	Hand Cricket website (HTML, CSS, Bootstrap)					
-  o	 [Cricket](https://susanthkakarla.github.io/HandCricket/)
-•	Dice Roller website (HTML, CSS, JS)						
-  o	https://susanthkakarla.github.io/Dice/
+•	[Hand Cricket website](https://susanthkakarla.github.io/HandCricket/) (HTML, CSS, Bootstrap)					
+   
+  
+•	[Dice Roller website](https://susanthkakarla.github.io/Dice/) (HTML, CSS, JS)						
   
   
- Github main prrofile:
-•	 https://github.com/SusanthKakarla
+ •[Github main profile](https://github.com/SusanthKakarla)
+
 
